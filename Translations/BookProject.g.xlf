@@ -78,6 +78,11 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page BookCard - Control Page Count - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Page 2756445967 - Control 4260162483 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer count</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BookCard - Control No. of Customers - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Page 3848602114 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Buchdetails</source>
           <note from="Developer" annotates="general" priority="2"></note>

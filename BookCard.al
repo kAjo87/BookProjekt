@@ -41,6 +41,11 @@ page 50100 BookCard
                     Caption = 'Page Count';
                     ApplicationArea = All;
                 }
+
+                field("No. of Customers";"No. of Customers"){
+                    Caption = 'Customer count';
+                    ApplicationArea = All;
+                }
             }
         }
     }
