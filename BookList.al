@@ -53,18 +53,5 @@ page 50101 BookList
                 end;
             }
         }
-
-        area(Reporting)
-        {
-            action(PrintBooks)
-            {
-                Caption = 'Print Books';
-                ApplicationArea = All;
-                RunObject = report "Book List";
-                image = Report;
-                PromotedCategory = Process;
-                PromotedIsBig = true;
-            }
-        }
     }
 }
