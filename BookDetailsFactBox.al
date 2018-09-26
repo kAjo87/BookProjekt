@@ -16,7 +16,12 @@ page 50103 BookDetailsFactBox
                     Caption = 'No.';
                     NotBlank = true;
                     ApplicationArea = All;
-                    DrillDownPageId = BookCard;
+                    DrillDown = true;
+
+                    trigger OnDrillDown()
+                    Begin
+                        ShowDetails();
+                    end;
                 }
                 field(Title; Title)
                 {
@@ -51,4 +56,9 @@ page 50103 BookDetailsFactBox
     
     var
         myInt: Integer;
+
+        local procedure ShowDetails();
+        begin
+            Page.Run(Page::BookCard,Rec);
+        END;
 }
