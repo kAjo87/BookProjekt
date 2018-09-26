@@ -78,21 +78,6 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page BookList - Property Caption</note>
         </trans-unit>
-        <trans-unit id="Page 685750181 - Control 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>No.</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page BookList - Control No. - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Page 685750181 - Control 329424276 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Title</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page BookList - Control Title - Property Caption</note>
-        </trans-unit>
-        <trans-unit id="Page 685750181 - Control 1563350711 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
-          <source>Autor</source>
-          <note from="Developer" annotates="general" priority="2"></note>
-          <note from="Xliff Generator" annotates="general" priority="3">Page BookList - Control Autor - Property Caption</note>
-        </trans-unit>
         <trans-unit id="TableExtension 2544826466 - Field 150268382 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Favorite Book No.</source>
           <note from="Developer" annotates="general" priority="2"></note>
