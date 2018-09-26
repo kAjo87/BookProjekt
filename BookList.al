@@ -32,10 +32,11 @@ page 50101 BookList
     }
     actions
     {
-        area(Processing)
+        area(Reporting)
         {
             action(Export)
             {
+                ApplicationArea = All;
                 trigger OnAction()
                 begin
                     Xmlport.Run(XMLPORT::"Book Export");
