@@ -5,7 +5,6 @@ report 50100 "Book List"
     RDLCLayout = 'Rep50100.BookList.rdlc';
     ApplicationArea = All;
     UsageCategory = ReportsAndAnalysis;
-
     dataset
     {
         dataitem(IntegerCount; Integer){
