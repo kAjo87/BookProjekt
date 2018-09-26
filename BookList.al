@@ -16,18 +16,15 @@ page 50101 BookList
             {
                 field("No."; "No.")
                 {
-                    Caption = 'No.';
                     ApplicationArea = All;
                 }
 
                 field(Title; Title)
                 {
-                    Caption = 'Title';
                     ApplicationArea = All;
                 }
                 field(Autor; Autor)
                 {
-                    Caption = 'Autor';
                     ApplicationArea = All;
                 }
             }
