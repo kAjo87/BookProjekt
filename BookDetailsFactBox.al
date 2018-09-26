@@ -39,26 +39,4 @@ page 50103 BookDetailsFactBox
             }
         }
     }
-    
-    actions
-    {
-        area(processing)
-        {
-            action(ActionName)
-            {
-                trigger OnAction()
-                begin
-                    
-                end;
-            }
-        }
-    }
-    
-    var
-        myInt: Integer;
-
-        local procedure ShowDetails();
-        begin
-            Page.Run(Page::BookCard,Rec);
-        END;
 }
