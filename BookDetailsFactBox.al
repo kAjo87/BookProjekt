@@ -39,4 +39,8 @@ page 50103 BookDetailsFactBox
             }
         }
     }
+    local procedure ShowDetails()
+    begin
+        Page.RUN(Page::BookCard,Rec);
+    end;
 }
