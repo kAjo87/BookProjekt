@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "al",
+            "request": "launch",
+            "name": "BC",
+            "server": "http://bc",
+            "serverInstance": "nav",
+            "authentication": "Windows",
+            "startupObjectId": 18,
+            "startupObjectType": "Page"
+        }
+    ]
+}

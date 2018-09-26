@@ -1,0 +1,26 @@
+{
+  "id": "995d8df3-d429-4eff-a1ed-83b0efc61539",
+  "name": "BookProject",
+  "publisher": "Kumavision",
+  "brief": "",
+  "description": "",
+  "version": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "12.0.0.0",
+  "application": "12.0.0.0",
+  "idRange": {
+    "from": 50100,
+    "to": 50149
+  },
+  
+  "features": [
+    "TranslationFile"
+  ]
+}
