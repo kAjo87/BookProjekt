@@ -33,6 +33,11 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Book - Field Page Count - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Table 1606545787 - Field 4260162483 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No. of Customers</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Book - Field No. of Customers - Property Caption</note>
+        </trans-unit>
         <trans-unit id="Page 2756445967 - Property 3830149458" size-unit="char" translate="yes" xml:space="preserve">
           <source>Book Card</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -72,6 +77,31 @@
           <source>Page Count</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page BookCard - Control Page Count - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3848602114 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Buchdetails</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BookDetailsFactBox - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3848602114 - Control 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BookDetailsFactBox - Control No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3848602114 - Control 329424276 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Title</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BookDetailsFactBox - Control Title - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3848602114 - Control 1563350711 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Autor</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BookDetailsFactBox - Control Autor - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3848602114 - Control 4112194308 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Page Count</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page BookDetailsFactBox - Control Page Count - Property Caption</note>
         </trans-unit>
         <trans-unit id="Page 685750181 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>Books</source>
