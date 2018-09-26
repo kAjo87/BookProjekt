@@ -39,6 +39,10 @@ report 50100 "Book List"
                 }
             }
         }
+        trigger OnOpenPage()
+        begin
+            myDecision := true;
+        end;
     }
 
     labels{
