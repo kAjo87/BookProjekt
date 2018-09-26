@@ -3,6 +3,7 @@ page 50103 BookDetailsFactBox
     PageType = CardPart;
     SourceTable = Book;
     Caption = 'Buchdetails';
+    Editable = false;
     
     layout
     {
@@ -15,6 +16,7 @@ page 50103 BookDetailsFactBox
                     Caption = 'No.';
                     NotBlank = true;
                     ApplicationArea = All;
+                    DrillDownPageId = BookCard;
                 }
                 field(Title; Title)
                 {
