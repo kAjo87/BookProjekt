@@ -12,7 +12,7 @@ page 50101 BookList
     {
         area(content)
         {
-            repeater(BookContent)
+            repeater(BookRepeater)
             {
                 field("No."; "No.")
                 {

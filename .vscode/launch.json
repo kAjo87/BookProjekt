@@ -8,8 +8,8 @@
             "server": "http://bc",
             "serverInstance": "nav",
             "authentication": "Windows",
-            "startupObjectId": 18,
-            "startupObjectType": "Page"
+            "startupObjectId": 9006,
+            "startupObjectType": "Page",
         }
     ]
 }

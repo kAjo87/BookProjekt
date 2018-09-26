@@ -6,20 +6,20 @@ table 50100 Book
 
     fields
     {
-        field(1; "No."; Code[20])
+        field(1;"No."; Code[20])
         {
             Caption = 'No.';
             NotBlank = true;
         }
-        field(2; Title; Text[50])
+        field(2;"Title"; Text[50])
         {
             Caption = 'Title';
         }
-        field(3; Autor; Text[50])
+        field(3;"Autor"; Text[50])
         {
             Caption = 'Autor';
         }
-        field(4; Hardcover; Boolean)
+        field(4;Hardcover; Boolean)
         {
             Caption = 'Hardcover'; 
         }
@@ -37,6 +37,6 @@ table 50100 Book
     }
     fieldgroups
     {
-        fieldgroup(Dropdown;"No.",Title,Autor){ }
+        fieldgroup(DropDown;"No.",Title,Autor){}
     }
 }
