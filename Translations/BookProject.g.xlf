@@ -38,6 +38,21 @@
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Table Book - Field No. of Customers - Property Caption</note>
         </trans-unit>
+        <trans-unit id="Codeunit 2613392281 - NamedType 637803153" size-unit="char" translate="no" xml:space="preserve">
+          <source>dad7f25b-5612-4edf-85d6-15757c6b2321</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Company Information Notif. - NamedType CompInfoNotificationID</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2613392281 - NamedType 3504626253" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Company Information is missing.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Company Information Notif. - NamedType CompInfoNotificationMsg</note>
+        </trans-unit>
+        <trans-unit id="Codeunit 2613392281 - NamedType 841321599" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Open Company Information Setup</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Codeunit Company Information Notif. - NamedType CompInfoNotificationActionMsg</note>
+        </trans-unit>
         <trans-unit id="Page 2756445967 - Property 3830149458" size-unit="char" translate="yes" xml:space="preserve">
           <source>Book Card</source>
           <note from="Developer" annotates="general" priority="2"></note>
@@ -117,6 +132,51 @@
           <source>XML Export</source>
           <note from="Developer" annotates="general" priority="2"></note>
           <note from="Xliff Generator" annotates="general" priority="3">Page BookList - Action Export - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 818430254 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Setup Company Information</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CompanyInfoWizard - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 818430254 - Control 552006252 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Company Name</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CompanyInfoWizard - Control CompanyName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 818430254 - Control 552006252 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Provide the name of your company</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CompanyInfoWizard - Control CompanyName - Property InstructionalText</note>
+        </trans-unit>
+        <trans-unit id="Page 818430254 - Control 2814033574 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Email Address</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CompanyInfoWizard - Control EmailAddress - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 818430254 - Control 3189484627 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>All done</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CompanyInfoWizard - Control AllDone - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 818430254 - Control 3189484627 - Property 1968111052" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Thank you! All information is now ready.</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CompanyInfoWizard - Control AllDone - Property InstructionalText</note>
+        </trans-unit>
+        <trans-unit id="Page 818430254 - Action 2438272767 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Back</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CompanyInfoWizard - Action ActionBack - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 818430254 - Action 914282563 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Next</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CompanyInfoWizard - Action ActionNext - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 818430254 - Action 3259912055 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Finish</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CompanyInfoWizard - Action ActionFinish - Property Caption</note>
         </trans-unit>
         <trans-unit id="XmlPort 3971569791 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
           <source>export books</source>
